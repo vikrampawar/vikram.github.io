@@ -5,7 +5,7 @@ date:   2025-11-24 12:00:00 +0000
 categories: ai anthropic claude
 ---
 
-Anthropic just dropped Claude Opus 4.5 and there's a lot to unpack here.
+Anthropic just [dropped Claude Opus 4.5][opus-announcement] and there's a lot to unpack here.
 
 The headline is clear. This is now state-of-the-art for coding, agents, and computer use. But what caught my attention goes deeper than benchmark numbers.
 
@@ -28,3 +28,5 @@ The timing is significant. Google's Gemini 3 just shook up the market. OpenAI re
 For those building with AI, the message is clear. The gap between what AI can do and what we're actually using it for keeps widening. Time to close it.
 
 What are you building with these new capabilities?
+
+[opus-announcement]: https://www.anthropic.com/news/claude-opus-4-5
